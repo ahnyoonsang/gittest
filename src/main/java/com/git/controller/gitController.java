@@ -13,7 +13,7 @@ public class gitController {
 	public double test3() {
 		return 65.5;
 	}
-	public int test3() {
+	public int test4() {
 		return 10;
 
 	}
